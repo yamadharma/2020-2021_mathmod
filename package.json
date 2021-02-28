@@ -1,0 +1,9 @@
+{
+  "name": "laboratory",
+  "version": "1.0.0",
+  "description": "Mathmod laboratory",
+  "main": "index.js",
+  "repository": "git@github.com:yamadharma/2020-2021_mathmod.git",
+  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "license": "CC-BY-4.0"
+}
